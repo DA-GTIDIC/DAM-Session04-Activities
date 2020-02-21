@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DAM-Session04-Activities</string>
+    <string name="start">Start</string>
+    <string name="introduex_el_teu_nom">Introduex el teu nom:</string>
+    <string name="name">Name</string>
+    <string name="update">Update</string>
+    <string name="clear">Clear</string>
+    <string name="bio">Bio</string>
+    <string name="logo_dam_course">Logo DAM course</string>
+    <string name="logo_campus_igualada">Logo campus igualada</string>
+    <string name="reject">Reject</string>
+    <string name="accept">accept</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
+    <string name="settings">Settings</string>
+    <string name="about">About...</string>
+</resources>
