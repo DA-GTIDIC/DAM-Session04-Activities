@@ -1,6 +1,7 @@
 # DAM-Session04-Activities
 
 Course: Development of Mobile Applications (DAM)
+
 Session: 04
 
 ## Description
